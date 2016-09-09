@@ -21,15 +21,15 @@ msgstr ""
 
 #: mr_calc.py:186
 msgid "No, use only heroes I have"
-msgstr "Нет, только использовать своих героев"
+msgstr "Нет, использовать только своих героев"
 
 #: mr_calc.py:187
 msgid "Recommend 1 missing hero"
-msgstr "Рекомендуют 1 недостающий героя"
+msgstr "Рекомендуовать 1 недостающего героя"
 
 #: mr_calc.py:188
 msgid "Recommend 2 missing heroes"
-msgstr "Рекомендуют 2 отсутствующих героев"
+msgstr "Рекомендовать 2 недостающих героев"
 
 #: mr_calc.py:190 mr_calc.py:193
 msgid "No"
@@ -49,7 +49,7 @@ msgstr "Сила"
 
 #: mr_calc.py:202
 msgid "Relative Power"
-msgstr "Реактивная Сила"
+msgstr "Относительная сила"
 
 #: templates/hero_runes.jinja2:9
 msgid "Select a hero:"
@@ -75,22 +75,22 @@ msgstr "Вы выбрали <strong>%(hero)s</strong> со следующими 
 #: templates/hero_runes.jinja2:42
 #, python-format
 msgid "Rune data about <strong>%(orange3)s</strong> quality might be incomplete."
-msgstr "Руна данные о <strong>%(orange3)s</strong> качества может быть неполным."
+msgstr "Данные о рунах <strong>%(orange3)s</strong> качества могут быть неполными."
 
 #: templates/hero_runes.jinja2:47
 #, python-format
 msgid ""
 "You also need to collect 60x <strong>%(hero)s Essence</strong> to complete awakening."
-msgstr "Кроме того, необходимо 60x <strong>%(hero)s Essence для пробуждения."
+msgstr "Кроме того, необходимо 60x <strong>%(hero)s Essence</strong>  для пробуждения."
 
 #: templates/hero_runes.jinja2:49
 #, python-format
 msgid "<strong>%(hero)s</strong> cannot be awakened yet."
-msgstr "<strong>%(hero)s</strong> не может быть еще разбудили."
+msgstr "<strong>%(hero)s</strong> пока не может пробудиться."
 
 #: templates/hero_runes.jinja2:57
 msgid "Required runes:"
-msgstr "Необходимые рун:"
+msgstr "Необходимые руны:"
 
 #: templates/hero_runes.jinja2:64
 msgid "Required fragments:"
@@ -102,19 +102,19 @@ msgstr "Выберите калькулятор:"
 
 #: templates/index.jinja2:16
 msgid "Rune Calculator"
-msgstr "Руна калькулятор"
+msgstr "Калькулятор рун"
 
 #: templates/index.jinja2:22
 msgid "Arena Team Recommender"
-msgstr "Арена Команда Рекомендующий"
+msgstr "Рекомендуемые комманды для арены"
 
 #: templates/layout.jinja2:43
 msgid "Home"
-msgstr "домашняя страница"
+msgstr "Домашняя страница"
 
 #: templates/layout.jinja2:44
 msgid "Back to top"
-msgstr "К вершине"
+msgstr "Вверх"
 
 #: templates/layout.jinja2:45
 msgid "Report a bug"
@@ -130,7 +130,7 @@ msgstr "Дизайн:"
 
 #: templates/layout.jinja2:55
 msgid "Images belong to Elex."
-msgstr "Изображения принадлежат к Elex."
+msgstr "Изображения принадлежат Elex."
 
 #: templates/team_picker.jinja2:8
 msgid "Based on top-50 teams in Arena"
@@ -150,11 +150,11 @@ msgstr "Выберите ваших героев:"
 
 #: templates/team_picker.jinja2:29
 msgid "Recommend missing heroes?"
-msgstr "Рекомендую не хватает героев?"
+msgstr "Рекомендовать недостающих героев?"
 
 #: templates/team_picker.jinja2:34
 msgid "Recommend paid heroes?"
-msgstr "Рекомендуют оплачиваемые героев?"
+msgstr "Рекомендовать платных героев?"
 
 #: templates/team_picker.jinja2:39
 msgid "Show advanced Power metrics?"
@@ -162,7 +162,7 @@ msgstr "Показать дополнительные показатели Си�
 
 #: templates/team_picker.jinja2:44
 msgid "Show teams with Prayer Bonus between"
-msgstr "Показать команды с Бонус Молитва между"
+msgstr "Показать команды с бонусом молитвы между"
 
 #: templates/team_picker.jinja2:46
 msgid "and"
@@ -174,7 +174,7 @@ msgstr "Сортировать по:"
 
 #: templates/team_picker.jinja2:62
 msgid "Recommend a team"
-msgstr "Рекомендовать команду"
+msgstr "Собрать команду"
 
 #: templates/team_picker.jinja2:67
 msgid "Recommended teams:"
@@ -183,9 +183,9 @@ msgstr "Рекомендуемые команды:"
 #: templates/team_picker.jinja2:69
 msgid ""
 "You've selected less than 5 heroes. Showing only teams with the selected heroes."
-msgstr "Вы выбрали менее 5 героев. Только команды с выбранными героями показаны."
+msgstr "Вы выбрали менее 5 героев. Показаны команды с выбранными героями."
 
 #: templates/team_picker.jinja2:75
 msgid ""
 "No team could be found. Please select more heroes or allow recommending missing heroes."
-msgstr "Ни одна команда не может быть найден. Пожалуйста, выберите больше героев или позволяют без вести героев."
+msgstr "Не найдена ни одна команда. Пожалуйста, выберите больше героев или разрешите порекомендовать недостающих."
