@@ -1,0 +1,191 @@
+# Russian translations for PROJECT.
+# Copyright (C) 2016 ORGANIZATION
+# This file is distributed under the same license as the PROJECT project.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2016.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: PROJECT VERSION\n"
+"Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
+"POT-Creation-Date: 2016-07-06 17:29+0200\n"
+"PO-Revision-Date: 2016-07-06 20:14+0200\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: ru\n"
+"Language-Team: ru <LL@li.org>\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && "
+"n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.3.4\n"
+
+#: mr_calc.py:186
+msgid "No, use only heroes I have"
+msgstr "Нет, только использовать своих героев"
+
+#: mr_calc.py:187
+msgid "Recommend 1 missing hero"
+msgstr "Рекомендуют 1 недостающий героя"
+
+#: mr_calc.py:188
+msgid "Recommend 2 missing heroes"
+msgstr "Рекомендуют 2 отсутствующих героев"
+
+#: mr_calc.py:190 mr_calc.py:193
+msgid "No"
+msgstr "Нет"
+
+#: mr_calc.py:191 mr_calc.py:194
+msgid "Yes"
+msgstr "да"
+
+#: mr_calc.py:200
+msgid "Rank"
+msgstr "Ранг"
+
+#: mr_calc.py:201
+msgid "Power"
+msgstr "Сила"
+
+#: mr_calc.py:202
+msgid "Relative Power"
+msgstr "Реактивная Сила"
+
+#: templates/hero_runes.jinja2:9
+msgid "Select a hero:"
+msgstr "Выберите героя:"
+
+#: templates/hero_runes.jinja2:18
+msgid "Select quality:"
+msgstr "Выберите качества:"
+
+#: templates/hero_runes.jinja2:25
+msgid "Select all"
+msgstr "Выбрать все"
+
+#: templates/hero_runes.jinja2:29
+msgid "Calculate runes"
+msgstr "Вычислить Руны"
+
+#: templates/hero_runes.jinja2:37
+#, python-format
+msgid "You've selected <strong>%(hero)s</strong> with the following qualities:"
+msgstr "Вы выбрали <strong>%(hero)s</strong> со следующими качествами:"
+
+#: templates/hero_runes.jinja2:42
+#, python-format
+msgid "Rune data about <strong>%(orange3)s</strong> quality might be incomplete."
+msgstr "Руна данные о <strong>%(orange3)s</strong> качества может быть неполным."
+
+#: templates/hero_runes.jinja2:47
+#, python-format
+msgid ""
+"You also need to collect 60x <strong>%(hero)s Essence</strong> to complete awakening."
+msgstr "Кроме того, необходимо 60x <strong>%(hero)s Essence для пробуждения."
+
+#: templates/hero_runes.jinja2:49
+#, python-format
+msgid "<strong>%(hero)s</strong> cannot be awakened yet."
+msgstr "<strong>%(hero)s</strong> не может быть еще разбудили."
+
+#: templates/hero_runes.jinja2:57
+msgid "Required runes:"
+msgstr "Необходимые рун:"
+
+#: templates/hero_runes.jinja2:64
+msgid "Required fragments:"
+msgstr "Необходимые фрагменты:"
+
+#: templates/index.jinja2:10
+msgid "Pick a calculator:"
+msgstr "Выберите калькулятор:"
+
+#: templates/index.jinja2:16
+msgid "Rune Calculator"
+msgstr "Руна калькулятор"
+
+#: templates/index.jinja2:22
+msgid "Arena Team Recommender"
+msgstr "Арена Команда Рекомендующий"
+
+#: templates/layout.jinja2:43
+msgid "Home"
+msgstr "домашняя страница"
+
+#: templates/layout.jinja2:44
+msgid "Back to top"
+msgstr "К вершине"
+
+#: templates/layout.jinja2:45
+msgid "Report a bug"
+msgstr "Сообщить об ошибке"
+
+#: templates/layout.jinja2:55
+msgid "Developed by:"
+msgstr "Разработано:"
+
+#: templates/layout.jinja2:55
+msgid "Designed by:"
+msgstr "Дизайн:"
+
+#: templates/layout.jinja2:55
+msgid "Images belong to Elex."
+msgstr "Изображения принадлежат к Elex."
+
+#: templates/team_picker.jinja2:8
+msgid "Based on top-50 teams in Arena"
+msgstr "На основе топ-50 команд в Арене"
+
+#: templates/team_picker.jinja2:10
+msgid "Servers:"
+msgstr "Серверы:"
+
+#: templates/team_picker.jinja2:11
+msgid "Last updated:"
+msgstr "Последнее обновление:"
+
+#: templates/team_picker.jinja2:16
+msgid "Select heroes you have:"
+msgstr "Выберите ваших героев:"
+
+#: templates/team_picker.jinja2:29
+msgid "Recommend missing heroes?"
+msgstr "Рекомендую не хватает героев?"
+
+#: templates/team_picker.jinja2:34
+msgid "Recommend paid heroes?"
+msgstr "Рекомендуют оплачиваемые героев?"
+
+#: templates/team_picker.jinja2:39
+msgid "Show advanced Power metrics?"
+msgstr "Показать дополнительные показатели Силы?"
+
+#: templates/team_picker.jinja2:44
+msgid "Show teams with Prayer Bonus between"
+msgstr "Показать команды с Бонус Молитва между"
+
+#: templates/team_picker.jinja2:46
+msgid "and"
+msgstr "и"
+
+#: templates/team_picker.jinja2:51
+msgid "Sort by:"
+msgstr "Сортировать по:"
+
+#: templates/team_picker.jinja2:62
+msgid "Recommend a team"
+msgstr "Рекомендовать команду"
+
+#: templates/team_picker.jinja2:67
+msgid "Recommended teams:"
+msgstr "Рекомендуемые команды:"
+
+#: templates/team_picker.jinja2:69
+msgid ""
+"You've selected less than 5 heroes. Showing only teams with the selected heroes."
+msgstr "Вы выбрали менее 5 героев. Только команды с выбранными героями показаны."
+
+#: templates/team_picker.jinja2:75
+msgid ""
+"No team could be found. Please select more heroes or allow recommending missing heroes."
+msgstr "Ни одна команда не может быть найден. Пожалуйста, выберите больше героев или позволяют без вести героев."
