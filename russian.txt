@@ -57,7 +57,7 @@ msgstr "Выберите героя:"
 
 #: templates/hero_runes.jinja2:18
 msgid "Select quality:"
-msgstr "Выберите эволюции:"
+msgstr "Выберите уровень эволюции:"
 
 #: templates/hero_runes.jinja2:25
 msgid "Select all"
