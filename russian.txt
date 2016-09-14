@@ -1,4 +1,4 @@
-# Russian translations for PROJECT.
+I# Russian translations for PROJECT.
 # Copyright (C) 2016 ORGANIZATION
 # This file is distributed under the same license as the PROJECT project.
 # FIRST AUTHOR <EMAIL@ADDRESS>, 2016.
@@ -57,7 +57,7 @@ msgstr "Выберите героя:"
 
 #: templates/hero_runes.jinja2:18
 msgid "Select quality:"
-msgstr "Выберите качества:"
+msgstr "Выберите эволюции:"
 
 #: templates/hero_runes.jinja2:25
 msgid "Select all"
